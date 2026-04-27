@@ -14,8 +14,8 @@ Look in the releases tab for the latest version. It's also available ![on the Fi
 
 ---
 ## If you liked this...
-Consider ![supporting me on Buy Me a Coffee!](https://buymeacoffee.com/surge_serj), or donating some Monero: **8AenpuA4uwFLHi7P1o1v3GWMa2cojTnjxHDdFHU1kJzZWT6FQKgv556jFpTYpUwSUrLzU4vq8oNSVLafsQdY3Dq8CaPVmaT**.
+Consider [supporting me on Buy Me a Coffee](https://buymeacoffee.com/surge_serj), or donating some Monero: **8AenpuA4uwFLHi7P1o1v3GWMa2cojTnjxHDdFHU1kJzZWT6FQKgv556jFpTYpUwSUrLzU4vq8oNSVLafsQdY3Dq8CaPVmaT**.
 
-![Click here if you have other coins](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=8AenpuA4uwFLHi7P1o1v3GWMa2cojTnjxHDdFHU1kJzZWT6FQKgv556jFpTYpUwSUrLzU4vq8oNSVLafsQdY3Dq8CaPVmaT&donation=True&name=%24URGE&bgcolor=00000000).
+[Click here if you have other coins](https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=8AenpuA4uwFLHi7P1o1v3GWMa2cojTnjxHDdFHU1kJzZWT6FQKgv556jFpTYpUwSUrLzU4vq8oNSVLafsQdY3Dq8CaPVmaT&donation=True&name=%24URGE&bgcolor=00000000).
 
 Thanks!
