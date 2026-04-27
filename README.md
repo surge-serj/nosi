@@ -12,8 +12,6 @@ Clipboard data is **NOT** sent or shared **ANYWHERE**, and is **ENTIRELY** local
 ## HOW DO I DOWNLOAD?
 Look in the releases tab for the latest version [or click here](https://github.com/surge-serj/nosi/releases/latest).
 
-It's also available [on the Firefox extensions store](https://addons.mozilla.org/en-US/firefox/addon/nosi/). I simply made this GitHub page for the more tech-savy users, and also because I hate Chrome and Edge :)
-
 ---
 ## If you liked this...
 Consider [supporting me on Buy Me a Coffee](https://buymeacoffee.com/surge_serj), or donating some Monero:
